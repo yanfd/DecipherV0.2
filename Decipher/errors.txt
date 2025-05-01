@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 14: Line is indented, but the preceding image statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    "images/city_night.jpg"
+    ^
+
+File "game/script.rpy", line 21: Line is indented, but the preceding image statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    "images/alley.jpg"
+    ^
+
+Ren'Py Version: Ren'Py 8.3.3.24111502
+Sun Apr 13 11:32:05 2025
