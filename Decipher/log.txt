@@ -1,29 +1,87 @@
-2025-04-13 04:00:12 UTC
+2025-05-01 15:38:18 UTC
 macOS-10.16-x86_64-i386-64bit
 Ren'Py 8.3.3.24111502
 
-Early init took 0.09s
-Loading error handling took 0.06s
-Loading script took 0.16s
-Loading save slot metadata took 0.06s
+Early init took 0.08s
+Loading error handling took 0.05s
+Loading script took 0.19s
+Loading save slot metadata took 0.03s
 Loading persistent took 0.00s
-Running init code took 0.07s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.03s
-Index archives took 0.00s
-Dump and make backups took 0.05s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
+
+File "game/script.rpy", line 584: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+        "朗木的声音如同夜风般消散，只留下冰冷的
 DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.04s
-Build styles took 0.00s
-Load screen analysis took 0.03s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.08s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
+Interface start took 1.34s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 645'
+Version: b'2.1 INTEL-23.0.26'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Could not open 'cache/shaders.txt':
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 30.80s
+Loading error handling took 0.04s
+Loading script took 0.23s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 67: expected statement.
+    music neon_drip = "audio/neon_drip.ogg"
+                    ^
+
+File "game/script.rpy", line 68: expected statement.
+    music synth_pulse = "audio/synth_pulse.ogg"
+                      ^
+
+File "game/script.rpy", line 69: expected statement.
+    music digital_static = "audio/digital_static.ogg"
+                         ^
+
+File "game/script.rpy", line 70: expected statement.
+    music urban_drone = "audio/urban_drone.ogg"
+                      ^
+
+File "game/script.rpy", line 71: expected statement.
+    music fractured_melody = "audio/fractured_melody.ogg"
+                           ^
+
+File "game/script.rpy", line 196: expected menuitem
+    if has_gun:
+    ^
+
+File "game/script.rpy", line 374: expected menuitem
+    if has_gun:
+    ^
+
+File "game/script.rpy", line 424: expected menuitem
+    if has_gun:
+    ^
+
+File "game/script.rpy", line 503: expected menuitem
+    if has_gun:
+    ^
+
+File "game/script.rpy", line 553: expected menuitem
+    if has_gun:
+    ^
+DPI scale factor: 1.000000
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 645'
+Version: b'2.1 INTEL-23.0.26'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Could not open 'cache/shaders.txt':
+Maximum texture size: 4096x4096

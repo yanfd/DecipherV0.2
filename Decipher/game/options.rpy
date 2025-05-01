@@ -132,7 +132,7 @@ default preferences.afm_time = 15
 ##
 ## 该语句通常不应变更，若要变更，应为有效字符串而不是表达式。
 
-define config.save_directory = "Decipher-1744510314"
+define config.save_directory = "Decipher-1746113636"
 
 
 ## 图标 ##########################################################################
