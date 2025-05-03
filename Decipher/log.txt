@@ -85,3 +85,6 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
 Could not open 'cache/shaders.txt':
 Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(989, 601) drawable=(1978, 1202)
+Could not open 'cache/shaders.txt':
+Maximum texture size: 4096x4096
