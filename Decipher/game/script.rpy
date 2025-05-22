@@ -3,7 +3,7 @@
 define r = Character("铁锈", color="#c8c8c8")
 define l = Character("朗木", color="#add8e6")
 define b = Character("布兰登", color="#ffa07a") # 主角
-
+    
 
 default scene = Solid("#000")
 
