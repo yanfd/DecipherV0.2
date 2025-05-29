@@ -1,0 +1,160 @@
+hi
+game
+├── SourceHanSansLite.ttf
+├── audio
+│   └── main.mp3
+├── cache
+│   ├── bytecode-39.rpyb
+│   ├── py3analysis.rpyb
+│   ├── screens.rpyb
+│   └── shaders.txt
+├── gui
+│   ├── bar
+│   │   ├── bottom.png
+│   │   ├── left.png
+│   │   ├── right.png
+│   │   └── top.png
+│   ├── bubble.png
+│   ├── button
+│   │   ├── check_foreground.png
+│   │   ├── check_selected_foreground.png
+│   │   ├── choice_hover_background.png
+│   │   ├── choice_idle_background.png
+│   │   ├── hover_background.png
+│   │   ├── idle_background.png
+│   │   ├── quick_hover_background.png
+│   │   ├── quick_idle_background.png
+│   │   ├── radio_foreground.png
+│   │   ├── radio_selected_foreground.png
+│   │   ├── slot_hover_background.png
+│   │   └── slot_idle_background.png
+│   ├── frame.png
+│   ├── game_menu.png
+│   ├── main_menu.png
+│   ├── namebox.png
+│   ├── notify.png
+│   ├── nvl.png
+│   ├── overlay
+│   │   ├── confirm.png
+│   │   ├── game_menu.png
+│   │   └── main_menu.png
+│   ├── phone
+│   │   ├── bar
+│   │   │   ├── bottom.png
+│   │   │   ├── left.png
+│   │   │   ├── right.png
+│   │   │   └── top.png
+│   │   ├── button
+│   │   │   ├── check_foreground.png
+│   │   │   ├── check_selected_foreground.png
+│   │   │   ├── choice_hover_background.png
+│   │   │   ├── choice_idle_background.png
+│   │   │   ├── hover_background.png
+│   │   │   ├── idle_background.png
+│   │   │   ├── radio_foreground.png
+│   │   │   ├── radio_selected_foreground.png
+│   │   │   ├── slot_hover_background.png
+│   │   │   └── slot_idle_background.png
+│   │   ├── nvl.png
+│   │   ├── overlay
+│   │   │   ├── game_menu.png
+│   │   │   └── main_menu.png
+│   │   ├── scrollbar
+│   │   │   ├── horizontal_hover_bar.png
+│   │   │   ├── horizontal_hover_thumb.png
+│   │   │   ├── horizontal_idle_bar.png
+│   │   │   ├── horizontal_idle_thumb.png
+│   │   │   ├── vertical_hover_bar.png
+│   │   │   ├── vertical_hover_thumb.png
+│   │   │   ├── vertical_idle_bar.png
+│   │   │   └── vertical_idle_thumb.png
+│   │   ├── slider
+│   │   │   ├── horizontal_hover_bar.png
+│   │   │   ├── horizontal_hover_thumb.png
+│   │   │   ├── horizontal_idle_bar.png
+│   │   │   ├── horizontal_idle_thumb.png
+│   │   │   ├── vertical_hover_bar.png
+│   │   │   ├── vertical_hover_thumb.png
+│   │   │   ├── vertical_idle_bar.png
+│   │   │   └── vertical_idle_thumb.png
+│   │   └── textbox.png
+│   ├── scrollbar
+│   │   ├── horizontal_hover_bar.png
+│   │   ├── horizontal_hover_thumb.png
+│   │   ├── horizontal_idle_bar.png
+│   │   ├── horizontal_idle_thumb.png
+│   │   ├── vertical_hover_bar.png
+│   │   ├── vertical_hover_thumb.png
+│   │   ├── vertical_idle_bar.png
+│   │   └── vertical_idle_thumb.png
+│   ├── skip.png
+│   ├── slider
+│   │   ├── horizontal_hover_bar.png
+│   │   ├── horizontal_hover_thumb.png
+│   │   ├── horizontal_idle_bar.png
+│   │   ├── horizontal_idle_thumb.png
+│   │   ├── vertical_hover_bar.png
+│   │   ├── vertical_hover_thumb.png
+│   │   ├── vertical_idle_bar.png
+│   │   └── vertical_idle_thumb.png
+│   ├── textbox.png
+│   ├── thoughtbubble.png
+│   └── window_icon.png
+├── gui.rpy
+├── gui.rpyc
+├── images
+│   ├── background
+│   │   ├── bg_moon_street.png
+│   │   ├── bg_mornin.png
+│   │   ├── bg_street.png
+│   │   ├── bg_street2.png
+│   │   ├── outside.png
+│   │   └── trainstation.png
+│   └── characters
+│       ├── rod
+│       │   ├── angry.png
+│       │   ├── angry2.png
+│       │   ├── happy.png
+│       │   ├── happy2.png
+│       │   ├── mid.png
+│       │   ├── mid2.png
+│       │   ├── sad.png
+│       │   ├── sup.png
+│       │   ├── sup2.png
+│       │   └── sup3.png
+│       └── rum
+│           ├── angry.png
+│           ├── angry2.png
+│           ├── black.png
+│           ├── happy1.png
+│           ├── happy2.png
+│           ├── mid.png
+│           ├── sad.png
+│           └── sup.png
+├── options.rpy
+├── options.rpyc
+├── saves
+│   ├── _reload-2-LT1.save
+│   ├── auto-1-LT1.save
+│   ├── auto-10-LT1.save
+│   ├── auto-2-LT1.save
+│   ├── auto-3-LT1.save
+│   ├── auto-4-LT1.save
+│   ├── auto-5-LT1.save
+│   ├── auto-6-LT1.save
+│   ├── auto-7-LT1.save
+│   ├── auto-8-LT1.save
+│   ├── auto-9-LT1.save
+│   ├── navigation.json
+│   └── persistent
+├── screens.rpy
+├── screens.rpyc
+├── script.rpy
+├── script.rpyc
+├── script2.txt
+└── tl
+    └── None
+        ├── common.rpym
+        └── common.rpymc
+
+22 directories, 134 files
