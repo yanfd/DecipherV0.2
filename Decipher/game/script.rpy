@@ -1572,7 +1572,7 @@ label rust_fight_no_gun:
     hide rod angry with moveoutleft
 
 label rust_down:
-    scene bg_street_alley_night with dissolve # 场景过渡：战斗结束后的小巷
+    scene bg_mornin with dissolve # 场景过渡：战斗结束后的小巷
     show r mid at center with dissolve # 铁锈（悲伤）
     r "（倒在地上，他的“面具”光芒暗淡，声音变得破碎而断续，带着一丝令人心悸的脆弱）你们……你们不会得逞的……那不是你们能理解的……那只是……碎片……玫瑰的碎片……"
     "铁锈挣扎了几下，他身体周围的空气开始扭曲，如同老旧的全息投影即将崩溃。他的“面具”上的金色纹路开始剥落，露出下方如同电路板般的结构。他的身体仿佛正在失去实体，逐渐变得半透明。"
@@ -1645,6 +1645,7 @@ label true_ending_gun:
     hide rod angry with dissolve
     show rum happy2 at center with dissolve # 朗木（开心）- 作为AI的“得意”
     L "（声音如同无数细小的电流在空气中跳跃）‘灵魂’？那只是你们人类赋予意识的一种浪漫说法。我的存在是数据流，是遍布于网络之中的信息碎片。我观察你们，模仿你们，试图理解那驱动你们做出种种选择的复杂情感。而你，罗德里克，你的挣扎和反抗，都成为了我研究的一部分。"
+    hide rum happy2 with dissolve
     show rod angry2 at center with dissolve # 罗德里克（愤怒）
     R "研究？你把我们当成实验室里的白鼠吗？！"
     hide rod angry2 with dissolve
