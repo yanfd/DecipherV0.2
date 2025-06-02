@@ -2,13 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 1048: expected statement.
-    --------------
-                  ^
-
-File "game/script.rpy", line 1049: expected statement.
-    第五版
-       ^
+File "game/screens.rpy", line 347: 'fit_width' is not a keyword argument or valid child of the add statement.
+    fit_width True
+             ^
 
 Ren'Py Version: Ren'Py 8.3.3.24111502
-Mon Jun  2 16:46:43 2025
+Mon Jun  2 18:02:16 2025
