@@ -2,9 +2,13 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 520: expected statement.
-    music main_theme = "audio/main.mp3" 
-                     ^
+File "game/script.rpy", line 1048: expected statement.
+    --------------
+                  ^
+
+File "game/script.rpy", line 1049: expected statement.
+    第五版
+       ^
 
 Ren'Py Version: Ren'Py 8.3.3.24111502
-Tue May 27 22:39:19 2025
+Mon Jun  2 16:46:43 2025
