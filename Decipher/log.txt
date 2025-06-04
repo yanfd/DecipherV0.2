@@ -1,4 +1,4 @@
-2025-06-03 12:50:25 UTC
+2025-06-04 13:13:20 UTC
 macOS-10.16-x86_64-i386-64bit
 Ren'Py 8.3.3.24111502
 
@@ -28,7 +28,7 @@ Prepare screens took 0.03s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.00s
 Running _start took 0.00s
-Interface start took 0.96s
+Interface start took 0.50s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1512, 982)
@@ -38,9 +38,19 @@ Vendor: "b'Apple'"
 Renderer: b'Apple M4'
 Version: b'2.1 Metal - 89.3'
 Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1464, 824) drawable=(2928, 1648)
+Screen sizes: virtual=(1920, 1080) physical=(917, 516) drawable=(1834, 1032)
 Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(1005, 485) drawable=(2010, 970)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(917, 551) drawable=(1834, 1102)
-Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
